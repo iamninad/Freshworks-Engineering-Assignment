@@ -1,6 +1,10 @@
 # Key-Value-Data Store
 File based Key-Value DataStore with JSON CRD(Create, Read, Delete)
 
+
+[Note] Add external jar 'json-simple-1.1.jar' to run this project.
+
+
 Build a file-based key-value data store that supports the basic CRD (create, read, and delete).
 This data store is meant to be used as a local storage for on single process on one laptop. The data store must be exposed as a library to clients that can instantiate a class and work with the data store.
 
